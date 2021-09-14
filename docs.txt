@@ -1,0 +1,6 @@
+1. row er moddhe 3 ta item show kora.--done
+2. image show kora.-- done.
+3. add to cart e click korle total added product e $ remove kora.-done
+4. product add korle my cart e total balence update kora.- done
+5. add to cart korle price e (.) er por 2 number dekhano. - done
+6. style update kora - done
